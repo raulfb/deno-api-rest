@@ -41,7 +41,7 @@ API_PORT=api_port
 
 Para rrancar la api ejecutamos el siguiente comando:
 ```bash
-deno run --allow-net --allow-env --allow-read  index.js
+denon run --allow-net --allow-env --allow-read  index.js
 ```
 ## Endpoints
 
