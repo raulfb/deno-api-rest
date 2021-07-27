@@ -1,4 +1,4 @@
-import { Application, Router } from "https://deno.land/x/oak/mod.ts";
+import { Application, Router } from "./deps.js"
 import storage from "./service/storage.js";
 import config from "./config.js";
 

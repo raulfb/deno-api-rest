@@ -1,4 +1,4 @@
-import { Client } from "https://deno.land/x/mysql/mod.ts";
+import { Client } from "../deps.js";
 import config from "../config.js";
 
 
