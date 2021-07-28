@@ -1,5 +1,5 @@
 import { Client } from "../deps.js";
-import config from "../config.js";
+import config from "../config/config.js";
 
 
 const client = await new Client().connect({

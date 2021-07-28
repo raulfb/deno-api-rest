@@ -1,4 +1,3 @@
-// import "https://deno.land/x/dotenv/load.ts";
 let config = {};
 
 config.database = {};

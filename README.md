@@ -56,6 +56,5 @@ denon run --allow-net --allow-env --allow-read  index.js
 
 - `GET /` - `curl -X GET "http://127.0.0.1:3000/" `
 - `GET /v1/usuarios/` - `curl -X GET "http://127.0.0.1:3000/v1/usuarios/" `
-- `GET /v1/usuarios/:id` - `curl -X GET "http://127.0.0.1:3000/v1/usuarios/" `
 - `GET /v1/usuarios/:id` - `curl -X GET "http://127.0.0.1:3000/v1/usuarios/1" `
 - `DELETE/v1/usuarios/:id` - `curl -H 'Accept: application/json' -X DELETE "http://127.0.0.1:3000/v1/usuarios/1"`
